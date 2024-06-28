@@ -5,7 +5,11 @@
     box-sizing: border-box;
 }
 body{
-    background: #262a2f;
+    background-image: url(https://png.pngtree.com/background/20210710/original/pngtree-technology-sense-business-office-tablet-banner-picture-image_1015003.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh; 
+    display: flex;
 }
 .container{
     width: 400px;
